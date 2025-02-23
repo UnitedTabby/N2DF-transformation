@@ -1,0 +1,10 @@
+# name of surface data file
+xxxxxxxx.dat
+# radius of the detector location in unit of lambdabar
+100000.0
+# direction of the normal (phi, theta) to the disc plane;
+# detector positions will be given by the Euler angle;
+# unit of phi and theta: degree
+0.0 0.0
+# number of Euler Psi angles per cycle
+181
